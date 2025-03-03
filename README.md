@@ -1,6 +1,6 @@
 # Reel It In
 
-Reel It In is a top-down style game in which you control a fishing boat. Your goal is to catch all the fish and return them to the dock to allow you through to the whirlpool portal that teleports you to the next level. 
+Reel It In is a top-down style game in which you control a fishing boat. Your goal is to catch all the fish and return them to the dock to allow you through to the whirlpool portal that teleports you to the next level. Sections of the islands are blocked off by locks, which can be unlocked by collecting the correct-coloured key.
 
 ## Running the game
 1. Open the root folder of the project in your IDE (VS Code or IntelliJ recommended)
